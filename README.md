@@ -137,11 +137,11 @@
     <img src="https://skillicons.dev/icons?i=windows" alt="windows" />
   </a>
 
-  <a href="https://ubuntu.com/">
+  <a href="https://ubuntu.com/" target="blank">
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" />
   </a>
 
-  <a href="https://www.raspberrypi.com/">
+  <a href="https://www.raspberrypi.com/" target="blank">
     <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" />
   </a>
 
