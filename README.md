@@ -3,7 +3,7 @@
 
 <!-- Languages -->
 <h3 style="display: inline-block" align="center">Languages</h3>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" alt="python" />
   </a>
@@ -31,12 +31,12 @@
 
 <!-- Frameworks -->
 <h3 style="display: inline-block" align="center">Frameworks</h3>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://pytorch.org/">
     <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" />
   </a>
 
-  <a href="https://scikit-learn.org/stable/">
+  <a href="https://scikit-learn.org/">
     <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" />
   </a>
 
@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
   </a>
 
-  <a href="https://flask.palletsprojects.com/en/stable/">
+  <a href="https://flask.palletsprojects.com/">
     <img src="https://skillicons.dev/icons?i=flask" alt="flask" />
   </a>
 
@@ -59,7 +59,7 @@
 
 <!-- Tools -->
 <h3 style="display: inline-block" align="center">Tools</h3>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://nginx.org/">
     <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" />
   </a>
@@ -84,7 +84,7 @@
     <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" />
   </a>
 </p>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://discord.com/developers">
     <img src="https://skillicons.dev/icons?i=bots" alt="discord bots" />
   </a>
@@ -112,7 +112,7 @@
 
 <!-- Editors -->
 <h3 style="display: inline-block" align="center">Editors</h3>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://www.jetbrains.com/pycharm/">
     <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" />
   </a>
@@ -132,7 +132,7 @@
 
 <!-- Operating systems -->
 <h3 style="display: inline-block" align="center">Operating systems</h3>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://www.microsoft.com/en-us/windows">
     <img src="https://skillicons.dev/icons?i=windows" alt="windows" />
   </a>
@@ -152,7 +152,7 @@
 
 <!-- Social Media Connect Section -->
 <h2 style="display: inline-block" align="center">Connect With Me🤝</h2>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://www.linkedin.com/in/philipthorell/" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
