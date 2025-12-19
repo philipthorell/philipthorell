@@ -136,11 +136,8 @@
 <h3 style="display: inline-block" align="center">Operating systems</h3>
 <div align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://www.microsoft.com/en-us/windows" target="blank"><img src="https://skillicons.dev/icons?i=windows" alt="windows" /></a>
-
   <a href="https://ubuntu.com/" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
-
   <a href="https://www.raspberrypi.com/" target="blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" /></a>
-
   <a href="https://www.linux.org/" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
 </div>
 
