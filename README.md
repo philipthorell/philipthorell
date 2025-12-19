@@ -139,9 +139,7 @@
     <img src="https://skillicons.dev/icons?i=windows" alt="windows" />
   </a>
 
-  <a href="https://ubuntu.com/" target="blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" />
-  </a>
+  <a href="https://ubuntu.com/" target="blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
 
   <a href="https://www.raspberrypi.com/" target="blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" />
