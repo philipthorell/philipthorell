@@ -157,13 +157,9 @@
 <p align="center" style="display:flex; justify-content:center; gap:8px;">
   <a href="https://www.linkedin.com/in/philipthorell/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
-  </a>
-
-  <a href="https://www.instagram.com/philipthorell43554/" target="blank">
+  </a><a href="https://www.instagram.com/philipthorell43554/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
-  </a>
-
-  <a href="https://discordapp.com/users/907220891753144360" target="blank">
+  </a><a href="https://discordapp.com/users/907220891753144360" target="blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="discord" />
   </a>
 </p>
