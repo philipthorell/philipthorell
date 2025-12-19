@@ -135,19 +135,19 @@
 <!-- Operating systems -->
 <h3 style="display: inline-block" align="center">Operating systems</h3>
 <p align="center" style="display:flex; justify-content:center; gap:8px;">
-  <a href="https://www.microsoft.com/en-us/windows" target="blank">
+  <a href="https://www.microsoft.com/en-us/windows" target="blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=windows" alt="windows" />
   </a>
 
-  <a href="https://ubuntu.com/" target="blank">
+  <a href="https://ubuntu.com/" target="blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" />
   </a>
 
-  <a href="https://www.raspberrypi.com/" target="blank">
+  <a href="https://www.raspberrypi.com/" target="blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" />
   </a>
 
-  <a href="https://www.linux.org/" target="blank">
+  <a href="https://www.linux.org/" target="blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
   </a>
 </p>
@@ -155,7 +155,7 @@
 <!-- Social Media Connect Section -->
 <h2 style="display: inline-block" align="center">Connect with me on LinkedIn🤝</h2>
 <p align="center" style="display:flex; justify-content:center; gap:8px;">
-  <a href="https://www.linkedin.com/in/philipthorell/" target="blank">
+  <a href="https://www.linkedin.com/in/philipthorell/" target="blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
 </p>
