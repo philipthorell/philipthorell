@@ -1,6 +1,11 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcwMTk5NDYsIm5iZiI6MTc2NzAxOTY0NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI5VDE0NDcyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyNjI0ZTExYmEwODY1M2Y0NDhmODQ2YzQ1MjFkODY0YjBkYzBiZDYwMzIwMGQ4YjZlZDEzYzQxODZiNWZlZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wW4-mJN_xikaXSBgRa_On4rGEhh-0svqGy0oA42az6A">
 
+<h2 style="display: inline-block" align="center">Check out my personal website below⬇️</h2>
+<h4 style="display: inline-block" align="center">https://philipthorell.com</h4>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipthorell&show_icons=true&commits_year=2025&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Tech Stack Section Heading -->
 <h2 style="display: inline-block" align="center">Technologies That I Know 👨🏻‍💻</h2>
