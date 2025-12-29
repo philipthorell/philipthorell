@@ -1,21 +1,29 @@
 <!-- BANNER -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7">
-
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Banner">
+</p>
 
 <!-- WEBSITE -->
-<h2 style="display: inline-block" align="center">Check out my personal website below⬇️</h2>
-
-<h4 style="display: inline-block" align="center">https://philipthorell.com</h4>
+<div align="center">
+  <h2>🌍Check out my portfolio website!🌐</h2>
+  <a href="https://philipthorell.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Website" />
+  </a>
+</div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</p>
 
 <!-- Tech Stack Section Heading -->
-<h2 style="display: inline-block" align="center">Technologies That I Know 👨🏻‍💻</h2>
+<div align="center">
+  <h2>Technologies That I Know 👨🏻‍💻</h2>
+</div>
 
 <!-- Languages -->
-<h3 style="display: inline-block" align="center">Languages</h3>
-<div align="center" style="display:flex; justify-content:center; gap:8px;">
+<div align="center">
+  <h3>Languages</h3>
   <a href="https://www.python.org/" target="blank"><img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
   <a href="https://www.gnu.org/software/bash/" target="blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
   <a href="https://www.postgresql.org/" target="blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></a>
@@ -25,8 +33,8 @@
 </div>
 
 <!-- Frameworks -->
-<h3 style="display: inline-block" align="center">Frameworks</h3>
-<div align="center" style="display:flex; justify-content:center; gap:8px;">
+<div align="center">
+  <h3>Frameworks</h3>
   <a href="https://pytorch.org/" target="blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" /></a>
   <a href="https://scikit-learn.org/" target="blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" /></a>
   <a href="https://opencv.org/" target="blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" /></a>
@@ -36,8 +44,8 @@
 </div>
 
 <!-- Tools -->
-<h3 style="display: inline-block" align="center">Tools</h3>
-<div align="center" style="display:flex; justify-content:center; gap:8px;">
+<div align="center">
+  <h3>Tools</h3>
   <a href="https://nginx.org/" target="blank"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" /></a>
   <a href="https://git-scm.com/" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
   <a href="https://github.com/" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
@@ -45,7 +53,7 @@
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
   <a href="https://www.cloudflare.com/" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" /></a>
 </div>
-<div align="center" style="display:flex; justify-content:center; gap:8px;">
+<div align="center">
   <a href="https://discord.com/developers" target="blank"><img src="https://skillicons.dev/icons?i=bots" alt="discord bots" /></a>
   <a href="https://aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" /></a>
   <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" /></a>
@@ -55,8 +63,8 @@
 </div>
 
 <!-- Editors -->
-<h3 style="display: inline-block" align="center">Editors</h3>
-<div align="center" style="display:flex; justify-content:center; gap:8px;">
+<div align="center">
+  <h3>Editors</h3>
   <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
   <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
   <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio" /></a>
@@ -64,8 +72,8 @@
 </div>
 
 <!-- Operating systems -->
-<h3 style="display: inline-block" align="center">Operating systems</h3>
-<div align="center" style="display:flex; justify-content:center; gap:8px;">
+<div align="center">
+  <h3>Operating systems</h3>
   <a href="https://www.microsoft.com/en-us/windows" target="blank"><img src="https://skillicons.dev/icons?i=windows" alt="windows" /></a>
   <a href="https://ubuntu.com/" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
   <a href="https://www.raspberrypi.com/" target="blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" /></a>
@@ -73,7 +81,7 @@
 </div>
 
 <!-- Social Media Connect Section -->
-<h2 style="display: inline-block" align="center">Connect with me on LinkedIn🤝</h2>
-<div align="center" style="display:flex; justify-content:center; gap:8px;">
+<div align="center">
+  <h2>Connect with me on LinkedIn🤝</h2>
   <a href="https://www.linkedin.com/in/philipthorell/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
 </div>
