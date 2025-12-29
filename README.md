@@ -10,9 +10,6 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GITHUB STATS -->
-[![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipthorell&show_icons=true&commits_year=2025&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Tech Stack Section Heading -->
 <h2 style="display: inline-block" align="center">Technologies That I Know 👨🏻‍💻</h2>
 
