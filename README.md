@@ -31,6 +31,7 @@
 <!-- Tech Stack Section Heading -->
 <div align="center">
   <h2>Technologies That I Know 👨🏻‍💻</h2>
+  <h4>(Everything is ordered from what i know the best/is intresed in the most, to the least)</h4>
 </div>
 
 <!-- Languages -->
