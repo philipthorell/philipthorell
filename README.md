@@ -16,6 +16,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
 
+<h3>
+  Currently studying Machine Learning and Artificial Intelligence.
+</h3>
+<p>
+  I am currently learning all about ML & AI as well as fullstack webdevelopment!
+</p>
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</p>
+
 <!-- Tech Stack Section Heading -->
 <div align="center">
   <h2>Technologies That I Know 👨🏻‍💻</h2>
@@ -65,10 +77,10 @@
 <!-- Editors -->
 <div align="center">
   <h3>Editors</h3>
+  <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
   <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
   <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio" /></a>
-  <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
 </div>
 
 <!-- Operating systems -->
