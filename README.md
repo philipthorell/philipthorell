@@ -21,8 +21,8 @@
   I am currently learning all about ML & AI as well as fullstack webdevelopment!
 </p>
 
-<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=400" alt="My GitHub stats" />
-<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=400" alt="My top languages" />
+<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="My GitHub stats" />
+<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=css,plpgsql&exclude_repo=github-readme-stats" alt="My top languages" />
 
 <!-- Tech Stack Section Heading -->
 <div align="center">
