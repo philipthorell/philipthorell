@@ -21,10 +21,8 @@
   I am currently learning all about ML & AI as well as fullstack webdevelopment!
 </p>
 
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</p>
+<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight" alt="My GitHub stats" />
+<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&hide=css,plpgsql" alt="My top languages" />
 
 <!-- Tech Stack Section Heading -->
 <div align="center">
