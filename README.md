@@ -97,6 +97,7 @@
 </div>
 </td>
 </tr>
+</table>
 
 <!-- Social Media Connect Section -->
 <div align="center">
