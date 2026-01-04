@@ -98,6 +98,8 @@
 </tr>
 </table>
 
+---
+
 <!-- Social Media Connect Section -->
 <div align="left">
   <h3>Social Media 👥</h3>
