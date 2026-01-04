@@ -6,9 +6,7 @@
 <!-- WEBSITE -->
 <div align="center">
   <h2>🌍Check out my portfolio website!🌐</h2>
-  <a href="https://philipthorell.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Website" />
-  </a>
+<a href="https://philipthorell.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&center=true&vCenter=true&repeat=false&width=435&lines=https%3A%2F%2Fphilipthorell.com" alt="https://philipthorell.com" /></a>
 </div>
 
 <!-- DIVIDER -->
@@ -17,7 +15,7 @@
 </p>
 
 <h3>
-  Currently studying Machine Learning and Artificial Intelligence.
+  Currently studying ML & AI 
 </h3>
 <p>
   I am currently learning all about ML & AI as well as fullstack webdevelopment!
