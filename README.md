@@ -23,7 +23,7 @@
 
 <div style="display: flex;">
 <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=470" alt="My GitHub stats" height="195" width="470" />
-<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=360" alt="My top languages" height="195" width="360" />
+<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=355" alt="My top languages" height="195" width="355" />
 </div>
 
 <!-- Tech Stack Section Heading -->
