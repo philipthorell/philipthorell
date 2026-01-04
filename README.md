@@ -29,7 +29,6 @@
 <!-- Tech Stack Section Heading -->
 <div align="center">
   <h2>Technologies That I Know 👨🏻‍💻</h2>
-  <h4>(Everything is ordered from what i know the best/is intresed in the most, to the least)</h4>
 </div>
 
 <table align="center">
@@ -100,7 +99,7 @@
 </table>
 
 <!-- Social Media Connect Section -->
-<div align="center">
-  <h2>Connect with me on LinkedIn🤝</h2>
+<div align="left">
+  <h3>Social Media 👥</h3>
   <a href="https://www.linkedin.com/in/philipthorell/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
 </div>
