@@ -32,6 +32,9 @@
   <h4>(Everything is ordered from what i know the best/is intresed in the most, to the least)</h4>
 </div>
 
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 <!-- Languages -->
 <div align="center">
   <h3>Languages</h3>
@@ -54,6 +57,17 @@
   <a href="https://www.djangoproject.com/" target="blank"><img src="https://skillicons.dev/icons?i=django" alt="django" /></a>
 </div>
 
+<!-- Editors -->
+<div align="center">
+  <h3>Editors</h3>
+  <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
+  <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio" /></a>
+</div>
+</td>
+
+<td valign="top" width="100%">
 <!-- Tools -->
 <div align="center">
   <h3>Tools</h3>
@@ -73,15 +87,6 @@
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" /></a>
 </div>
 
-<!-- Editors -->
-<div align="center">
-  <h3>Editors</h3>
-  <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
-  <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
-  <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio" /></a>
-</div>
-
 <!-- Operating systems -->
 <div align="center">
   <h3>Operating systems</h3>
@@ -90,6 +95,8 @@
   <a href="https://www.raspberrypi.com/" target="blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" /></a>
   <a href="https://www.linux.org/" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
 </div>
+</td>
+</tr>
 
 <!-- Social Media Connect Section -->
 <div align="center">
