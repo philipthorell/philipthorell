@@ -6,7 +6,7 @@
 <!-- WEBSITE -->
 <div align="center">
   <h2>🌍Check out my portfolio website!🌐</h2>
-<a href="https://philipthorell.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&center=true&vCenter=true&repeat=false&width=435&lines=https%3A%2F%2Fphilipthorell.com" alt="https://philipthorell.com" /></a>
+<a href="https://philipthorell.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&center=true&vCenter=true&repeat=false&width=435&lines=https%3A%2F%2Fphilipthorell.com" alt="https://philipthorell.com" /></a>
 </div>
 
 <!-- DIVIDER -->
@@ -101,11 +101,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<!-- Social Media Connect Section -->
-<div align="left">
-  <h3>Social Media 👥</h3>
-  <a href="https://www.linkedin.com/in/philipthorell/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-</div>
