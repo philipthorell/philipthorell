@@ -49,13 +49,14 @@
   <a href="https://www.arduino.cc/" target="blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" /></a>
 </div>
 
-<!-- Frameworks -->
+<!-- Frameworks & Libraries -->
 <div align="center">
-  <h3>Frameworks</h3>
+  <h3>Frameworks & Libraries</h3>
   <a href="https://pytorch.org/" target="blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" /></a>
   <a href="https://scikit-learn.org/" target="blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" /></a>
   <a href="https://opencv.org/" target="blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" /></a>
   <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" /></a>
+  <a href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
   <a href="https://flask.palletsprojects.com/" target="blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" /></a>
   <a href="https://www.djangoproject.com/" target="blank"><img src="https://skillicons.dev/icons?i=django" alt="django" /></a>
 </div>
@@ -93,6 +94,7 @@
 <!-- Operating systems -->
 <div align="center">
   <h3>Operating systems</h3>
+  <a href="https://archlinux.org/" target="blank"><img src="https://skillicons.dev/icons?i=arch" alt="arch" /></a>
   <a href="https://www.microsoft.com/en-us/windows" target="blank"><img src="https://skillicons.dev/icons?i=windows" alt="windows" /></a>
   <a href="https://ubuntu.com/" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
   <a href="https://www.raspberrypi.com/" target="blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" /></a>
