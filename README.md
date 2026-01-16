@@ -3,23 +3,23 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Banner">
 </p>
 
-<!-- WEBSITE -->
-<div align="center">
-  <h2>🌍Check out my portfolio website!🌐</h2>
-<a href="https://philipthorell.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&center=true&vCenter=true&repeat=false&width=435&lines=https%3A%2F%2Fphilipthorell.com" alt="https://philipthorell.com" /></a>
-</div>
+<h3>
+  Hi and welcome to my profile!
+</h3>
+<p>
+  I am currently learning all about ML, DevOps, and Fullstack webdevelopment!
+</p>
 
 <!-- DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </p>
 
-<h3>
-  Currently studying ML & AI 
-</h3>
-<p>
-  I am currently learning all about ML & AI as well as fullstack webdevelopment!
-</p>
+<!-- WEBSITE -->
+<div align="center">
+  <h2>🌍Check out my portfolio website!🌐</h2>
+<a href="https://philipthorell.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&center=true&vCenter=true&repeat=false&width=435&lines=https%3A%2F%2Fphilipthorell.com" alt="https://philipthorell.com" /></a>
+</div>
 
 <br>
 
