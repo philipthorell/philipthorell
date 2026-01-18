@@ -81,8 +81,6 @@
   <a href="https://github.com/features/actions" target="blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" /></a>
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
   <a href="https://www.cloudflare.com/" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" /></a>
-</div>
-<div align="center">
   <a href="https://discord.com/developers" target="blank"><img src="https://skillicons.dev/icons?i=bots" alt="discord bots" /></a>
   <a href="https://aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" /></a>
   <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" /></a>
