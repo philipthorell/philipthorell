@@ -3,11 +3,11 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Banner">
 </p>
 
-<h3>
-  Hi and welcome to my profile!
-</h3>
-<p>
-  I am currently learning all about ML, DevOps, and Fullstack webdevelopment!
+<h1>
+  Hi and welcome to my profile!👋
+</h1>
+<p align="center">
+<em>Machine Learning · DevOps · Fullstack Webdevelopment</em>
 </p>
 
 <!-- DIVIDER -->
