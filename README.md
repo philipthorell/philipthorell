@@ -16,23 +16,25 @@
 </p>
 
 <!-- WEBSITE -->
+<!--
 <div align="center">
   <h2>🌍Check out my portfolio website!🌐</h2>
 <a href="https://philipthorell.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&center=true&vCenter=true&repeat=false&width=435&lines=https%3A%2F%2Fphilipthorell.com" alt="https://philipthorell.com" /></a>
 </div>
+-->
 
 <br>
 
 <div style="display: flex;">
 <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=470&number_format=long&bg_color=00000000" alt="My GitHub stats" height="195" width="470" />
-<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=355&bg_color=00000000&text_color=4ce6d4" alt="My top languages" height="195" width="355" />
+<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=355&bg_color=00000000&text_color=4ce6d4" alt="My top languages" height="195" width="355" />
 </div>
 
 <br>
 
 <!-- Tech Stack Section Heading -->
 <div align="center">
-  <h2>Technologies That I Know 👨🏻‍💻</h2>
+  <h2><u>My Tech Stack</u> 🛠️</h2>
 </div>
 
 <table align="center">
