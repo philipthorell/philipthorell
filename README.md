@@ -53,6 +53,27 @@
   <a href="https://www.arduino.cc/" target="blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" /></a>
 </div>
 
+
+<!-- Editors -->
+<div align="center">
+  <h3>Editors</h3>
+  <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
+  <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio" /></a>
+</div>
+
+<!-- Operating systems -->
+<div align="center">
+  <h3>Operating systems</h3>
+  <a href="https://archlinux.org/" target="blank"><img src="https://skillicons.dev/icons?i=arch" alt="arch" /></a>
+  <a href="https://www.microsoft.com/en-us/windows" target="blank"><img src="https://skillicons.dev/icons?i=windows" alt="windows" /></a>
+  <a href="https://ubuntu.com/" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
+  <a href="https://www.raspberrypi.com/" target="blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" /></a>
+</div>
+</td>
+
+<td valign="top" width="100%">
 <!-- Frameworks & Libraries -->
 <div align="center">
   <h3>Frameworks & Libraries</h3>
@@ -74,17 +95,6 @@
   <a href="https://www.pygame.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pygame" alt="pygame" /></a>
 </div>
 
-<!-- Editors -->
-<div align="center">
-  <h3>Editors</h3>
-  <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
-  <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
-  <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio" /></a>
-</div>
-</td>
-
-<td valign="top" width="100%">
 <!-- Tools -->
 <div align="center">
   <h3>Tools</h3>
@@ -103,15 +113,6 @@
   <a href="https://www.notion.com/" target="blank"><img src="https://skillicons.dev/icons?i=notion" alt="notion" /></a>
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" /></a>
   <a href="https://www.linux.org/" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
-</div>
-
-<!-- Operating systems -->
-<div align="center">
-  <h3>Operating systems</h3>
-  <a href="https://archlinux.org/" target="blank"><img src="https://skillicons.dev/icons?i=arch" alt="arch" /></a>
-  <a href="https://www.microsoft.com/en-us/windows" target="blank"><img src="https://skillicons.dev/icons?i=windows" alt="windows" /></a>
-  <a href="https://ubuntu.com/" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
-  <a href="https://www.raspberrypi.com/" target="blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" /></a>
 </div>
 </td>
 </tr>
