@@ -3,6 +3,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Banner">
 </p>
 
+<!-- ABOUT -->
 <h1 align="center">
   Hi and welcome to my profile!👋
 </h1>
@@ -25,6 +26,7 @@
 
 <br>
 
+<!-- GITHUB STATS -->
 <div style="display: flex;">
 <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=470&number_format=long&bg_color=00000000" alt="My GitHub stats" height="195" width="470" />
 <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=355&bg_color=00000000&text_color=4ce6d4" alt="My top languages" height="195" width="355" />
@@ -32,7 +34,7 @@
 
 <br>
 
-<!-- Tech Stack Section Heading -->
+<!-- TECH STACK -->
 <div align="center">
   <h2><u>My Tech Stack</u> 🛠️</h2>
 </div>
@@ -57,10 +59,19 @@
   <a href="https://pytorch.org/" target="blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" /></a>
   <a href="https://scikit-learn.org/" target="blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" /></a>
   <a href="https://opencv.org/" target="blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" /></a>
+  <a href="https://numpy.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="numpy" /></a>
+  <a href="https://pandas.pydata.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas" /></a>
+  <a href="https://matplotlib.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" alt="seaborn" /></a>
   <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" /></a>
   <a href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
   <a href="https://flask.palletsprojects.com/" target="blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" /></a>
   <a href="https://www.djangoproject.com/" target="blank"><img src="https://skillicons.dev/icons?i=django" alt="django" /></a>
+  <a href="https://jupyter.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="jupyter" /></a>
+  <a href="https://www.sqlalchemy.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" alt="sqlalchemy" /></a>
+  <a href="https://docs.pydantic.dev/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pydantic" alt="pydantic" /></a>
+  <a href="https://docs.pytest.org/en/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" alt="pytest" /></a>
+  <a href="https://www.pygame.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pygame" alt="pygame" /></a>
 </div>
 
 <!-- Editors -->
@@ -77,18 +88,21 @@
 <!-- Tools -->
 <div align="center">
   <h3>Tools</h3>
+  <a href="https://github.com/tmux/tmux" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tmux" alt="tmux" /></a>
   <a href="https://nginx.org/" target="blank"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" /></a>
   <a href="https://git-scm.com/" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
   <a href="https://github.com/" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
   <a href="https://github.com/features/actions" target="blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" /></a>
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
+  <a href="https://www.proxmox.com/en/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox" alt="proxmox" /></a>
+  <a href="https://www.portainer.io/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=portainer" alt="portainer" /></a>
   <a href="https://www.cloudflare.com/" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" /></a>
   <a href="https://discord.com/developers" target="blank"><img src="https://skillicons.dev/icons?i=bots" alt="discord bots" /></a>
   <a href="https://aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" /></a>
   <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" /></a>
-  <a href="https://grafana.com/" target="blank"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" /></a>
   <a href="https://www.notion.com/" target="blank"><img src="https://skillicons.dev/icons?i=notion" alt="notion" /></a>
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" /></a>
+  <a href="https://www.linux.org/" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
 </div>
 
 <!-- Operating systems -->
