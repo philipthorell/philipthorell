@@ -44,7 +44,7 @@
 <td valign="top" width="50%">
 <!-- Languages -->
 <div align="center">
-  <h3>Languages</h3>
+  <strong style="font-size: 20px;">Languages</strong>
   <a href="https://www.python.org/" target="blank"><img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
   <a href="https://www.gnu.org/software/bash/" target="blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
   <a href="https://www.postgresql.org/" target="blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></a>
@@ -56,7 +56,7 @@
 
 <!-- Editors -->
 <div align="center">
-  <h3>Editors</h3>
+  <strong style="font-size: 20px;">Editors</strong>
   <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
   <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
@@ -65,7 +65,7 @@
 
 <!-- Operating systems -->
 <div align="center">
-  <h3>Operating systems</h3>
+  <strong style="font-size: 20px;">Operating systems</strong>
   <a href="https://archlinux.org/" target="blank"><img src="https://skillicons.dev/icons?i=arch" alt="arch" /></a>
   <a href="https://www.microsoft.com/en-us/windows" target="blank"><img src="https://skillicons.dev/icons?i=windows" alt="windows" /></a>
   <a href="https://ubuntu.com/" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
@@ -74,7 +74,7 @@
 
 <!-- Homelab -->
 <details align="center">
-  <summary><h3>Homelab</h3></summary>
+  <summary><strong style="font-size: 20px;">Homelab</strong></summary>
 <div align="center">
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
   <a href="https://www.proxmox.com/en/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=dark" alt="proxmox" /></a>
@@ -96,7 +96,7 @@
 
 <!-- Arch Config -->
 <details align="center">
-    <summary><h3>Arch Config</h3></summary>
+    <summary><strong style="font-size: 20px;">Arch Config</strong></summary>
 <div align="center">
   <a href="https://hypr.land/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland&theme=dark" alt="hyprland" /></a>
   <a href="https://sw.kovidgoyal.net/kitty/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kitty&theme=dark" alt="kitty" /></a>
@@ -107,7 +107,7 @@
 <td valign="top" width="100%">
 <!-- Frameworks & Libraries -->
 <div align="center">
-  <h3>Frameworks & Libraries</h3>
+  <strong style="font-size: 20px;">Frameworks & Libraries</strong>
   <a href="https://pytorch.org/" target="blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" /></a>
   <a href="https://scikit-learn.org/" target="blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" /></a>
   <a href="https://opencv.org/" target="blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" /></a>
@@ -128,7 +128,7 @@
 
 <!-- Tools -->
 <div align="center">
-  <h3>Tools</h3>
+  <strong style="font-size: 20px;">Tools</strong>
   <a href="https://github.com/tmux/tmux" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tmux&theme=dark" alt="tmux" /></a>
   <a href="https://nginx.org/" target="blank"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" /></a>
   <a href="https://git-scm.com/" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
