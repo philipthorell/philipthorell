@@ -71,6 +71,39 @@
   <a href="https://ubuntu.com/" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /></a>
   <a href="https://www.raspberrypi.com/" target="blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" /></a>
 </div>
+
+<!-- Homelab -->
+<details>
+  <summary>Homelab</summary>
+<div align="center">
+  <h3>Homelab</h3>
+  <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
+  <a href="https://www.proxmox.com/en/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=dark" alt="proxmox" /></a>
+  <a href="https://discord.com/developers" target="blank"><img src="https://skillicons.dev/icons?i=bots" alt="discord bots" /></a>
+  <a href="https://www.portainer.io/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=portainer&theme=dark" alt="portainer" /></a>
+  <a href="https://www.home-assistant.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/home-assistant.png" alt="homeassistant" /></a>
+  <a href="https://mosquitto.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mosquitto.png" alt="mosquitto" /></a>
+  <a href="https://www.zigbee2mqtt.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zigbee2mqtt.png" alt="zigbee2mqtt" /></a>
+  <a href="https://www.wireguard.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireguard.png" alt="wireguard" /></a>
+  <a href="https://pi-hole.net/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole.png" alt="pi-hole" /></a>
+    <!-- 
+  <a href="https://kubernetes.io/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" /></a>
+  <a href="https://prometheus.io/" target="blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" /></a>
+  <a href="https://grafana.com/" target="blank"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" /></a>
+-->
+  <a href="https://www.linux.org/" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
+</div>
+</details>
+
+<!-- Arch Config -->
+<details>
+    <summary>Arch Config</summary>
+<div align="center">
+  <h3>Arch Config</h3>
+  <a href="https://hypr.land/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland&theme=dark" alt="hyprland" /></a>
+  <a href="https://sw.kovidgoyal.net/kitty/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kitty&theme=dark" alt="kitty" /></a>
+</div>
+</details>
 </td>
 
 <td valign="top" width="100%">
@@ -104,15 +137,11 @@
   <a href="https://github.com/" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
   <a href="https://github.com/features/actions" target="blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" /></a>
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
-  <a href="https://www.proxmox.com/en/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=dark" alt="proxmox" /></a>
-  <a href="https://www.portainer.io/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=portainer&theme=dark" alt="portainer" /></a>
   <a href="https://www.cloudflare.com/" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" /></a>
-  <a href="https://discord.com/developers" target="blank"><img src="https://skillicons.dev/icons?i=bots" alt="discord bots" /></a>
   <a href="https://aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" /></a>
   <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" /></a>
   <a href="https://www.notion.com/" target="blank"><img src="https://skillicons.dev/icons?i=notion" alt="notion" /></a>
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" /></a>
-  <a href="https://www.linux.org/" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
 </div>
 </td>
 </tr>
