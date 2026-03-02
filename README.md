@@ -73,19 +73,18 @@
 </div>
 
 <!-- Homelab -->
-<details>
-  <summary>Homelab</summary>
+<details align="center">
+  <summary><h3>Homelab</h3></summary>
 <div align="center">
-  <h3>Homelab</h3>
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
   <a href="https://www.proxmox.com/en/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=dark" alt="proxmox" /></a>
   <a href="https://discord.com/developers" target="blank"><img src="https://skillicons.dev/icons?i=bots" alt="discord bots" /></a>
   <a href="https://www.portainer.io/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=portainer&theme=dark" alt="portainer" /></a>
-  <a href="https://www.home-assistant.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/home-assistant.png" alt="homeassistant" /></a>
-  <a href="https://mosquitto.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mosquitto.png" alt="mosquitto" /></a>
-  <a href="https://www.zigbee2mqtt.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zigbee2mqtt.png" alt="zigbee2mqtt" /></a>
-  <a href="https://www.wireguard.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireguard.png" alt="wireguard" /></a>
-  <a href="https://pi-hole.net/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole.png" alt="pi-hole" /></a>
+  <a href="https://www.home-assistant.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/home-assistant.png" alt="homeassistant" width="48px" height="48px" /></a>
+  <a href="https://mosquitto.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mosquitto.png" alt="mosquitto" width="48px" height="48px" /></a>
+  <a href="https://www.zigbee2mqtt.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zigbee2mqtt.png" alt="zigbee2mqtt" width="48px" height="48px" /></a>
+  <a href="https://www.wireguard.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireguard.png" alt="wireguard" width="48px" height="48px" /></a>
+  <a href="https://pi-hole.net/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole.png" alt="pi-hole" width="48px" height="48px" /></a>
     <!-- 
   <a href="https://kubernetes.io/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" /></a>
   <a href="https://prometheus.io/" target="blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" /></a>
@@ -96,10 +95,9 @@
 </details>
 
 <!-- Arch Config -->
-<details>
-    <summary>Arch Config</summary>
+<details align="center">
+    <summary><h3>Arch Config</h3></summary>
 <div align="center">
-  <h3>Arch Config</h3>
   <a href="https://hypr.land/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland&theme=dark" alt="hyprland" /></a>
   <a href="https://sw.kovidgoyal.net/kitty/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kitty&theme=dark" alt="kitty" /></a>
 </div>
