@@ -73,9 +73,8 @@
 </div>
 
 <!-- Homelab -->
-<details align="center">
-  <summary><h3>Homelab</h3></summary>
 <div align="center">
+  <h3>Homelab</h3>
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
   <a href="https://www.proxmox.com/en/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox&theme=dark" alt="proxmox" /></a>
   <a href="https://discord.com/developers" target="blank"><img src="https://skillicons.dev/icons?i=bots" alt="discord bots" /></a>
@@ -92,16 +91,6 @@
 -->
   <a href="https://www.linux.org/" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
 </div>
-</details>
-
-<!-- Arch Config -->
-<details align="center">
-    <summary><h3>Arch Config</h3></summary>
-<div align="center">
-  <a href="https://hypr.land/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland&theme=dark" alt="hyprland" /></a>
-  <a href="https://sw.kovidgoyal.net/kitty/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kitty&theme=dark" alt="kitty" /></a>
-</div>
-</details>
 </td>
 
 <td valign="top" width="100%">
@@ -140,6 +129,13 @@
   <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" /></a>
   <a href="https://www.notion.com/" target="blank"><img src="https://skillicons.dev/icons?i=notion" alt="notion" /></a>
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" /></a>
+</div>
+
+<!-- Arch Config -->
+<div align="center">
+  <h3>Arch Config</h3>
+  <a href="https://hypr.land/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland&theme=dark" alt="hyprland" /></a>
+  <a href="https://sw.kovidgoyal.net/kitty/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=kitty&theme=dark" alt="kitty" /></a>
 </div>
 </td>
 </tr>
