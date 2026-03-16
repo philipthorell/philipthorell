@@ -46,10 +46,10 @@
 <div align="center">
   <h3>Languages</h3>
   <a href="https://www.python.org/" target="blank"><img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-sql-db.svg" alt="sql" width="48px" height="48px" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
   <a href="https://isocpp.org/" target="blank"><img src="https://skillicons.dev/icons?i=cpp" alt="c++" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-sql-db.svg" alt="sql" width="48px" height="48px" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
   <a href="https://www.arduino.cc/" target="blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" /></a>
 </div>
 
