@@ -47,7 +47,7 @@
   <h3>Languages</h3>
   <a href="https://www.python.org/" target="blank"><img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
   <a href="https://www.gnu.org/software/bash/" target="blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
-  <a href="https://www.postgresql.org/" target="blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-sql-db.svg" alt="sql" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
   <a href="https://isocpp.org/" target="blank"><img src="https://skillicons.dev/icons?i=cpp" alt="c++" /></a>
   <a href="https://www.arduino.cc/" target="blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" /></a>
@@ -58,6 +58,7 @@
 <div align="center">
   <h3>Editors</h3>
   <a href="https://neovim.io/" target="blank"><img src="https://skillicons.dev/icons?i=neovim" alt="neovim" /></a>
+  <a href="https://cursor.com/docs" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" alt="cursor" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" /></a>
   <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" /></a>
   <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio" /></a>
@@ -106,6 +107,7 @@
   <a href="https://seaborn.pydata.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" alt="seaborn" /></a>
   <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" /></a>
   <a href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=zustand&theme=dark" alt="zustand" /></a>
   <a href="https://flask.palletsprojects.com/" target="blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" /></a>
   <a href="https://www.djangoproject.com/" target="blank"><img src="https://skillicons.dev/icons?i=django" alt="django" /></a>
   <a href="https://jupyter.org/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="jupyter" /></a>
@@ -119,13 +121,18 @@
 <div align="center">
   <h3>Tools</h3>
   <a href="https://github.com/tmux/tmux" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tmux&theme=dark" alt="tmux" /></a>
+  <a href="https://aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" /></a>
+  <a href="https://aws.amazon.com/ec2/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=ec2&theme=dark" alt="ec2" /></a>
+  <a href="https://aws.amazon.com/rds/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=rds&theme=dark" alt="rds" /></a>
+  <a href="https://aws.amazon.com/s3/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=s3&theme=dark" alt="s3" /></a>
+  <a href="https://www.postgresql.org/" target="blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></a>
+  <a href="https://redis.io/" target="blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" /></a>
   <a href="https://nginx.org/" target="blank"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" /></a>
   <a href="https://git-scm.com/" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
   <a href="https://github.com/" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
   <a href="https://github.com/features/actions" target="blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" /></a>
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
   <a href="https://www.cloudflare.com/" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" /></a>
-  <a href="https://aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" /></a>
   <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" /></a>
   <a href="https://www.notion.com/" target="blank"><img src="https://skillicons.dev/icons?i=notion" alt="notion" /></a>
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" /></a>
