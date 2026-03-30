@@ -27,10 +27,16 @@
 <br>
 
 <!-- GITHUB STATS -->
-<div style="display: flex;">
-<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=470&number_format=long&bg_color=00000000" alt="My GitHub stats" height="195" width="470" />
-<img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=355&bg_color=00000000&text_color=4ce6d4" alt="My top languages" height="195" width="355" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=470&number_format=long&bg_color=00000000" alt="My GitHub stats" height="195" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=355&bg_color=00000000&text_color=4ce6d4" alt="My top languages" height="195" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -84,7 +90,9 @@
   <a href="https://mosquitto.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mosquitto.png" alt="mosquitto" title="Mosquitto" width="48px" height="48px" /></a>
   <a href="https://www.zigbee2mqtt.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zigbee2mqtt.png" alt="zigbee2mqtt" title="Zigbee2MQTT" width="48px" height="48px" /></a>
   <a href="https://www.wireguard.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireguard.png" alt="wireguard" title="WireGuard" width="48px" height="48px" /></a>
-  <a href="https://pi-hole.net/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole.png" alt="pi-hole" title="Pi-hole" width="48px" height="48px" /></a>
+  <div width="48px" height="48px">
+    <a href="https://pi-hole.net/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole.png" alt="pi-hole" title="Pi-hole" /></a>
+  </div>
   <a href="https://nginxproxymanager.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" alt="nginx proxy manager" title="Nginx Proxy Manager" width="48px" height="48px" /></a>
     <!-- 
   <a href="https://kubernetes.io/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" title="Kubernetes" /></a>
