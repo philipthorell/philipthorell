@@ -30,10 +30,10 @@
 <table width="100%" border="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=470&number_format=long&bg_color=00000000&hide_border=true&border_radius=12" alt="My GitHub stats" />
+      <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api?username=philipthorell&hide=stars&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&number_format=long&bg_color=00000000&hide_border=true&border_radius=12" alt="My GitHub stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=css,plpgsql&exclude_repo=github-readme-stats&card_width=355&bg_color=00000000&text_color=4ce6d4&hide_border=true&border_radius=12" alt="My top languages" />
+      <img src="https://github-readme-stats-omega-rosy-53.vercel.app/api/top-langs/?username=philipthorell&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=css,plpgsql&exclude_repo=github-readme-stats&bg_color=00000000&text_color=4ce6d4&hide_border=true&border_radius=12" alt="My top languages" />
     </td>
   </tr>
 </table>
