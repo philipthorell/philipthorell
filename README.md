@@ -85,6 +85,7 @@
   <a href="https://www.zigbee2mqtt.io/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zigbee2mqtt.png" alt="zigbee2mqtt" title="Zigbee2MQTT" width="48px" height="48px" /></a>
   <a href="https://www.wireguard.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireguard.png" alt="wireguard" title="WireGuard" width="48px" height="48px" /></a>
   <a href="https://pi-hole.net/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole.png" alt="pi-hole" title="Pi-hole" width="48px" height="48px" /></a>
+  <a href="https://nginxproxymanager.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" alt="nginx proxy manager" title="Nginx Proxy Manager" width="48px" height="48px" /></a>
     <!-- 
   <a href="https://kubernetes.io/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" title="Kubernetes" /></a>
   <a href="https://prometheus.io/" target="blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" title="Prometheus" /></a>
