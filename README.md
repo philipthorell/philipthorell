@@ -94,7 +94,7 @@
   <a href="https://nginxproxymanager.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" alt="nginx proxy manager" title="Nginx Proxy Manager" width="48px" height="48px" /></a>
   <a href="https://prometheus.io/" target="blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" title="Prometheus" /></a>
   <a href="https://grafana.com/" target="blank"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" title="Grafana" /></a>
-  <a href="https://github.com/google/cadvisor" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cadvisor.png" alt="cadvisor" title="cAdvisor" width="48px" height="48px" /></a>
+  <a href="https://github.com/google/cadvisor" target="blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/cadvisor.svg" alt="cadvisor" title="cAdvisor" width="48px" height="48px" /></a>
     <!-- 
   <a href="https://kubernetes.io/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" title="Kubernetes" /></a>
 -->
