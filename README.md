@@ -95,6 +95,8 @@
   <a href="https://prometheus.io/" target="blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="prometheus" title="Prometheus" /></a>
   <a href="https://grafana.com/" target="blank"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" title="Grafana" /></a>
   <a href="https://github.com/google/cadvisor" target="blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/cadvisor.svg" alt="cadvisor" title="cAdvisor" width="48px" height="48px" /></a>
+  <a href="https://syncthing.net/" target="blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/syncthing.svg" alt="syncthing" title="Syncthing" width="48px" height="48px" /></a>
+  <a href="https://gethomepage.dev/" target="blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/homepage.svg" alt="homepage" title="Homepage" width="48px" height="48px" /></a>
     <!-- 
   <a href="https://kubernetes.io/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" title="Kubernetes" /></a>
 -->
@@ -142,7 +144,6 @@
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker" /></a>
   <a href="https://www.cloudflare.com/" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" title="Cloudflare" /></a>
   <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" title="Anaconda" /></a>
-  <a href="https://www.notion.com/" target="blank"><img src="https://skillicons.dev/icons?i=notion" alt="notion" title="Notion" /></a>
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" title="Obsidian" /></a>
 </div>
 
