@@ -143,7 +143,7 @@
   <a href="https://github.com/features/actions" target="blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" title="GitHub Actions" /></a>
   <a href="https://www.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker" /></a>
   <a href="https://www.cloudflare.com/" target="blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" title="Cloudflare" /></a>
-  <a href="https://anaconda.org/" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" title="Anaconda" /></a>
+  <a href="https://docs.astral.sh/uv/" target="blank"><img src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv" title="uv" width="48px" height="48px" /></a>
   <a href="https://obsidian.md/" target="blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" title="Obsidian" /></a>
 </div>
 
